@@ -1,0 +1,11 @@
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\obj\Debug\netcoreapp2.1\DoTheBadThing.csprojAssemblyReference.cache
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\obj\Debug\netcoreapp2.1\DoTheBadThing.csproj.CoreCompileInputs.cache
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\obj\Debug\netcoreapp2.1\DoTheBadThing.AssemblyInfoInputs.cache
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\obj\Debug\netcoreapp2.1\DoTheBadThing.AssemblyInfo.cs
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\bin\Debug\netcoreapp2.1\DoTheBadThing.deps.json
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\bin\Debug\netcoreapp2.1\DoTheBadThing.runtimeconfig.json
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\bin\Debug\netcoreapp2.1\DoTheBadThing.runtimeconfig.dev.json
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\bin\Debug\netcoreapp2.1\DoTheBadThing.dll
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\bin\Debug\netcoreapp2.1\DoTheBadThing.pdb
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\obj\Debug\netcoreapp2.1\DoTheBadThing.dll
+C:\Users\computing\source\repos\DoTheBadThing\DoTheBadThing\obj\Debug\netcoreapp2.1\DoTheBadThing.pdb
